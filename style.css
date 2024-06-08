@@ -1,0 +1,23 @@
+
+
+
+.bulb{
+    margin-top: 20px;
+    
+} 
+  
+.pic{
+    text-align: center;
+}
+.click{
+    text-align: center;
+    padding-top: 30px;
+}
+ .click button{
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    background-color: rgba(255, 255, 0, 0.479);
+    font-size: 15px;
+ }
